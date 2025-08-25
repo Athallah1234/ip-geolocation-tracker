@@ -1,11 +1,10 @@
-# 🌍 IP Geolocation Tracker (with Weather Info)
+# 🌍 IP Geolocation Tracker
 
 A simple **IP Geolocation Tracker** built with **Python** and **Tkinter**.  
 This application allows you to:
 
 - Get **location details** (city, region, country, latitude, longitude) from an IP address
 - Display the location on an **interactive map** using Folium
-- Fetch **current weather information** from [OpenWeatherMap API](https://openweathermap.org/api)  
 - Copy results to clipboard
 - Save and view **search history**
 
