@@ -14,7 +14,6 @@ This application allows you to:
 
 ✅ Track IP geolocation (City, Region, Country, Coordinates)  
 ✅ Show location on an interactive **map (HTML)**  
-✅ Fetch real-time **weather info** (temperature, description)  
 ✅ **Clipboard support** (copy results)  
 ✅ **Search history** stored within the session  
 ✅ Clean and simple **Tkinter GUI**  
